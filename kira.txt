@@ -3,7 +3,7 @@
 "version": "test v1",
 	"iron": "badal li ltaht ila bghiti iron",
 	
-	"ironId": "e1d8ff01",
+	"ironId": "",
 	"ironBanner": "DefaultBanner",
 	"ironInter": "DefaultInterstitial",
 	"ironReward": "DefaultRewardedVideo",
@@ -24,7 +24,7 @@
 
 	"unity": "badal li ltaht ila bghiti unity",
 	
-	"UnityAppId": "4162026",
+	"UnityAppId": "",
 	"UnityInter": "video",
 	"Unitybanner": "banner",
 	"unityreward": "rewardedVideo"
