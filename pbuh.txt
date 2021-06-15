@@ -11,10 +11,10 @@
 
 	"admob": "hado dyal admob li taht",
 
-	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
-	"interId": "",
-	"bannerId": "",
-	"rewardadmob": "",
+	"AdmobAppId": "ca-app-pub-1612627398318452~7224415872",
+	"interId": "ca-app-pub-1612627398318452/7451453066",
+	"bannerId": "ca-app-pub-1612627398318452/1972089190",
+	"rewardadmob": "ca-app-pub-1612627398318452/8617388596",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
