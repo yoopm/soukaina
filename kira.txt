@@ -18,7 +18,7 @@
 
 	"facebook": "badal li ltaht ila bghiti facebook",
 	
-	"FanInter": "",
+	"FanInter": "510931343553982_511826910131092",
 	"FanBanner": "",
 	"FanReward": "",
 
